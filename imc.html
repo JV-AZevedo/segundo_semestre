@@ -1,0 +1,26 @@
+<html>
+    <script>
+        var nome = prompt("nome: ")
+        var idade = prompt("idade: ")
+        var peso = parseFloat(prompt("peso: "))
+        var altura = parseFloat(prompt("altura: "))
+        var imc = peso / altura**2
+        document.write(imc)
+        if (imc < 16) {
+            document.write("Baixo peso Grau I")
+        } else if (imc < 16.99) {
+            document.write("Baixo peso Grau II")
+        } else if (imc < 18.49) {
+            document.write("Baixo peso Grau III")
+        } else if (imc < 24.99) {
+            document.write("Peso adequado")
+        } else if (imc < 29.99) {
+            document.write("Sobrepeso")
+        } else if (imc < 34.99) {
+            document.write("Obesidade grau I")
+        } else if (imc < 39.99) {
+            document.write("Obesidade grau II")
+        } else
+            document.write("Obesidade grau III")
+    </script>
+</html>
