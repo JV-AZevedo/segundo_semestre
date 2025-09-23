@@ -4,8 +4,15 @@ while True:
     l.append(nome)
     idade = input("Idade: ")
     l.append(idade)
-    peso = float(input("Peso: "))
-    altura = float(input("Altura(m): "))
+    erro = True
+    while erro == True:
+        try:
+            peso = float(input("Peso: "))
+            altura = float(input("Altura(m): "))
+        except ValueError:
+            print("valor inválido")
+        else:
+            erro = False
     imc = peso/(altura**2)
     if imc < 16:
         l.append("Baixo peso Grau I")
