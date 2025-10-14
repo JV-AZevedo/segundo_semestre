@@ -1,0 +1,8 @@
+Joao, Media: 4.20
+Marcos, Media: 3.93
+Leonardo, Media: 2.77
+Jean, Media: 3.90
+Fernando, Media: 4.87
+Ronaldo, Media: 3.40
+Lucas, Media: 2.87
+Alceu, Media: 4.71, Reprovado apos exame

@@ -1,0 +1,7 @@
+Miguel, Media: 7.90
+Maria, Media: 7.10
+Eduarda, Media: 7.10
+Felipe, Media: 7.18, Aprovado apos exame
+Wellington, Media: 6.94, Aprovado apos exame
+Jose, Media: 5.20, Aprovado apos exame
+Ana, Media: 6.44, Aprovado apos exame

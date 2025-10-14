@@ -1,0 +1,5 @@
+Felipe, Media: 6.17
+Wellington, Media: 5.57
+Alceu, Media: 5.13
+Jose, Media: 6.70
+Ana, Media: 6.57
