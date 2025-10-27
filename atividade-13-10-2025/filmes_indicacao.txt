@@ -1,0 +1,5 @@
+1982, TRON,8.6
+2014, Ex Machina,8.2
+1999, Pirates of Silicon Valley,8.0
+2018, Ready Player One,4.4
+1983, WarGames,3.3
